@@ -12,4 +12,6 @@ To update this template, use the following:
 $ cd .daystram
 $ helm create application
 $ mv application helm-chart
+$ cd ..
+$ tar -czf scaffold.tgz .daystram/helm-chart
 ```
