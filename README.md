@@ -1,4 +1,4 @@
-# daystram Chart Repository
+# :ship: daystram Chart Repository
 
 Helm chart repository for daystram's applications.
 
@@ -10,10 +10,12 @@ To update this template, use the following:
 
 ```shell
 $ cd .daystram
-$ helm create application
-$ mv application helm-chart
+$ helm create APPLICATION_NAME
+$ mv APPLICATION_NAME helm-chart
 $ # make necessary updates
 $ cd ..
 $ tar -czf scaffold.tgz .daystram/helm-chart
 $ mv scaffold.tgz docs/
 ```
+
+Ensure that the application name to be replaced by [init.sh](./init.sh) is set to `APPLICATION_NAME`.
