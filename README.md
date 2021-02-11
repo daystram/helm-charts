@@ -9,7 +9,7 @@ You can use the init script to initialize a Helm chart in your repository. This 
 Simply run the following:
 
 ```shell
-$ curl -sfL https://charts.daystram.com/init.sh | sh - [application name]
+$ curl -sfL https://charts.daystram.com/init.sh | sh
 ```
 
 ## Updating Template
