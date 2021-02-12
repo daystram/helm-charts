@@ -3,11 +3,8 @@ REPO="https://charts.daystram.com"
 APPLICATION_NAME=$1
 
 if [ -d ".daystram/helm-chart" ]; then
-    echo -n "Helm chart already initialized at .daystram/helm-chart, overwrite? [y/N] ";
-    read resp;
-    if [ "$resp" = "${resp#[Yy]}" ]; then
-        exit 1
-    fi
+    echo -n "Helm chart already initialized at .daystram/helm-chart.";
+    exit 1
 fi
 
 if [ -z "$APPLICATION_NAME" ]; then
