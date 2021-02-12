@@ -28,4 +28,4 @@ $ tar -czf scaffold.tgz .daystram/helm-chart
 $ mv scaffold.tgz docs/
 ```
 
-Ensure that the application name to be replaced by [init.sh](./init.sh) is set to `APPLICATION_NAME`.
+Ensure that the application name to be replaced by [init.sh](./init.sh) is set to `APPLICATION_NAME`, and chart version in Charts.yaml set to `APPLICATION_VERSION` (1-1 versioning convention used, see more [here](https://codefresh.io/docs/docs/new-helm/helm-best-practices/#simple-1-1-versioning)).
