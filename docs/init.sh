@@ -1,5 +1,6 @@
 #!/bin/sh
 REPO="https://charts.daystram.com"
+APPLICATION_NAME=$1
 
 if [ -d ".daystram/helm-chart" ]; then
     echo -n "Helm chart already initialized at .daystram/helm-chart, overwrite? [y/N] ";
@@ -9,10 +10,8 @@ if [ -d ".daystram/helm-chart" ]; then
     fi
 fi
 
-echo -n "Application name: ";
-read APPLICATION_NAME;
 if [ -z "$APPLICATION_NAME" ]; then
-    echo "You have to provide an application name!"
+    echo "Usage: curl -sfL $REPO/init.sh | sh -s - [application name]"
     exit 1
 fi
 
