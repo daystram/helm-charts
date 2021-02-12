@@ -1,4 +1,5 @@
 #!/bin/sh
+set -e
 REPO="https://charts.daystram.com"
 APPLICATION_NAME=$1
 
