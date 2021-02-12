@@ -9,14 +9,14 @@ You can use the init script to initialize a Helm chart in your repository. This 
 Simply run the following:
 
 ```shell
-$ curl -sfL https://charts.daystram.com/init.sh | sh
+$ curl -sfL https://charts.daystram.com/init.sh | sh -s - [application name]
 ```
 
 ## Updating Template
 
 A starter scaffold chart can be found in `.daystram/chart`. This scaffold is retrieved by the [init.sh](./init.sh) script to ease chart initialization in new repositories without having to have Helm installed on the development machine.
 
-To update this template, use the following:
+To update this scaffold, use the following:
 
 ```shell
 $ cd .daystram
