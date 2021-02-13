@@ -2,13 +2,13 @@ apiVersion: v1
 entries:
   folio:
   - apiVersion: v2
-    appVersion: "1"
-    created: "2021-02-13T13:25:06.723089034Z"
+    appVersion: v0.0.0-development
+    created: "2021-02-13T17:39:43.51985528Z"
     description: Personal website and portfolio
-    digest: 3e443294af6def92be225c9b172760162d66ccd63f3f5b3dadf943edd993d846
+    digest: 9338d72850819ab98f1365883ff7d01b859996edd9ca0df0fddac4c9e757bf6b
     name: folio
     type: application
     urls:
     - https://charts.daystram.com/folio-v0.0.0-development.tgz
     version: v0.0.0-development
-generated: "2021-02-13T13:25:06.72043415Z"
+generated: "2021-02-13T17:39:43.518769191Z"
