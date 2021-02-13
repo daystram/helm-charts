@@ -2,13 +2,13 @@ apiVersion: v1
 entries:
   folio:
   - apiVersion: v2
-    appVersion: v0.0.0-development
-    created: "2021-02-13T10:47:29.951889536Z"
-    description: A Helm chart for Kubernetes
-    digest: dd07d1676a71dce77a0392166b82c7a8d1a87dba16f1fcd8a4efc02679084978
+    appVersion: "1"
+    created: "2021-02-13T13:25:06.723089034Z"
+    description: Personal website and portfolio
+    digest: 3e443294af6def92be225c9b172760162d66ccd63f3f5b3dadf943edd993d846
     name: folio
     type: application
     urls:
     - https://charts.daystram.com/folio-v0.0.0-development.tgz
     version: v0.0.0-development
-generated: "2021-02-13T10:47:29.950096136Z"
+generated: "2021-02-13T13:25:06.72043415Z"
