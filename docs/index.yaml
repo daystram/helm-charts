@@ -3,12 +3,12 @@ entries:
   folio:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2021-02-13T09:24:49.292379325Z"
+    created: "2021-02-13T09:38:39.493369669Z"
     description: A Helm chart for Kubernetes
-    digest: 933c3d5769792872da03d97706d75616f4b950a910da64f500e235a79cc57cd6
+    digest: fdf1987a71ebf24f4efdaa4b35d64bb8d94e8bdc8969b62e606e20e95a7bf691
     name: folio
     type: application
     urls:
-    - folio-v0.0.1-alpha.1.tgz
+    - https://charts.daystram.com/folio-v0.0.1-alpha.1.tgz
     version: v0.0.1-alpha.1
-generated: "2021-02-13T09:24:49.29063733Z"
+generated: "2021-02-13T09:38:39.492087834Z"
