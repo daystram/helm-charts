@@ -28,7 +28,7 @@ echo "Packaging Helm chart..."
 
 sed -i "s/APPLICATION_VERSION/$APPLICATION_VERSION/g" .daystram/helm-chart/Chart.yaml
 helm package .daystram/helm-chart --version $APPLICATION_VERSION
-helm repo index .
+helm repo index . --url $REPO
 
 echo "Chart succesfully packaged!"
 exit 0
