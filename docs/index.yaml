@@ -3,7 +3,7 @@ entries:
   folio:
   - apiVersion: v2
     appVersion: v0.0.0-development
-    created: "2021-02-14T10:53:01.877345798Z"
+    created: "2021-02-14T11:33:52.114794185Z"
     description: Personal website and portfolio
     digest: 9338d72850819ab98f1365883ff7d01b859996edd9ca0df0fddac4c9e757bf6b
     name: folio
@@ -14,12 +14,12 @@ entries:
   ratify:
   - apiVersion: v2
     appVersion: v0.0.0-development
-    created: "2021-02-14T10:53:01.879508274Z"
+    created: "2021-02-14T11:33:52.115675025Z"
     description: Central Authentication Service implementing OAuth 2.0 and OpenID Connect protocols
-    digest: 790067cdf14682e132c164a0c0486e31eb670cf50dd19459f5f62ee69850614e
+    digest: 6f79563917e926ede304417526eff665fa68959935f4019a9749b0062bdda65e
     name: ratify
     type: application
     urls:
     - https://charts.daystram.com/ratify-v0.0.0-development.tgz
     version: v0.0.0-development
-generated: "2021-02-14T10:53:01.876220794Z"
+generated: "2021-02-14T11:33:52.113007099Z"
