@@ -3,9 +3,9 @@ entries:
   cut:
   - apiVersion: v2
     appVersion: v0.0.0-development
-    created: "2021-02-15T11:09:39.627813692Z"
+    created: "2021-02-15T12:31:28.359619594Z"
     description: URL, snippet, and file sharing with ease
-    digest: 35e1247b95321cd38c4d4f4bf166ff53c4b17b23a97f6526d85924dfdc65814f
+    digest: d40210fae241a1990cd119bfd872cbcabc0e01a086c82b7f0e170cb708f8f7cd
     name: cut
     type: application
     urls:
@@ -14,7 +14,7 @@ entries:
   folio:
   - apiVersion: v2
     appVersion: v0.0.0-development
-    created: "2021-02-15T11:09:39.628717916Z"
+    created: "2021-02-15T12:31:28.360621596Z"
     description: Personal website and portfolio
     digest: b649bdfa6bba4f4264fd934b2483cd93078d87ab7a5a783f183719a94a2fe557
     name: folio
@@ -25,7 +25,7 @@ entries:
   ratify:
   - apiVersion: v2
     appVersion: v1.1.1
-    created: "2021-02-15T11:09:39.631016293Z"
+    created: "2021-02-15T12:31:28.362657718Z"
     description: Central Authentication Service implementing OAuth 2.0 and OpenID Connect protocols
     digest: 4ca4408279a2d6e88238a84ef09d8556f20869cad19854e15052c793e10ccb04
     name: ratify
@@ -35,7 +35,7 @@ entries:
     version: v1.1.1
   - apiVersion: v2
     appVersion: v0.0.0-development
-    created: "2021-02-15T11:09:39.630447007Z"
+    created: "2021-02-15T12:31:28.361453144Z"
     description: Central Authentication Service implementing OAuth 2.0 and OpenID Connect protocols
     digest: b2f02a17b140576506999ef870b0f02beb263db4787113dd9a683b7b12d0b0b6
     name: ratify
@@ -43,4 +43,4 @@ entries:
     urls:
     - https://charts.daystram.com/ratify-v0.0.0-development.tgz
     version: v0.0.0-development
-generated: "2021-02-15T11:09:39.625943599Z"
+generated: "2021-02-15T12:31:28.357849335Z"
