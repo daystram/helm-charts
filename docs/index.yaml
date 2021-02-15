@@ -3,7 +3,7 @@ entries:
   cut:
   - apiVersion: v2
     appVersion: v0.0.0-development
-    created: "2021-02-15T15:03:31.72419867Z"
+    created: "2021-02-15T15:52:50.004194732Z"
     description: URL, snippet, and file sharing with ease
     digest: 0b5e848d88c93aa7bb6023779e9f10ae601655ffe1d28c87920a2843fdeba0f6
     name: cut
@@ -13,8 +13,18 @@ entries:
     version: v0.0.0-development
   folio:
   - apiVersion: v2
+    appVersion: v2.0.0-alpha.2
+    created: "2021-02-15T15:52:50.006226528Z"
+    description: Personal website and portfolio
+    digest: 8c18e63b8806666a9304d40af71c1ec81da2e63db5359404f1cabae09b22b227
+    name: folio
+    type: application
+    urls:
+    - https://charts.daystram.com/folio-v2.0.0-alpha.2.tgz
+    version: v2.0.0-alpha.2
+  - apiVersion: v2
     appVersion: v0.0.0-development
-    created: "2021-02-15T15:03:31.726286046Z"
+    created: "2021-02-15T15:52:50.004965115Z"
     description: Personal website and portfolio
     digest: b649bdfa6bba4f4264fd934b2483cd93078d87ab7a5a783f183719a94a2fe557
     name: folio
@@ -25,7 +35,7 @@ entries:
   ratify:
   - apiVersion: v2
     appVersion: v1.1.1
-    created: "2021-02-15T15:03:31.727517046Z"
+    created: "2021-02-15T15:52:50.008134827Z"
     description: Central Authentication Service implementing OAuth 2.0 and OpenID Connect protocols
     digest: 4ca4408279a2d6e88238a84ef09d8556f20869cad19854e15052c793e10ccb04
     name: ratify
@@ -35,7 +45,7 @@ entries:
     version: v1.1.1
   - apiVersion: v2
     appVersion: v0.0.0-development
-    created: "2021-02-15T15:03:31.726930473Z"
+    created: "2021-02-15T15:52:50.007561637Z"
     description: Central Authentication Service implementing OAuth 2.0 and OpenID Connect protocols
     digest: b2f02a17b140576506999ef870b0f02beb263db4787113dd9a683b7b12d0b0b6
     name: ratify
@@ -43,4 +53,4 @@ entries:
     urls:
     - https://charts.daystram.com/ratify-v0.0.0-development.tgz
     version: v0.0.0-development
-generated: "2021-02-15T15:03:31.722503779Z"
+generated: "2021-02-15T15:52:50.002857712Z"
