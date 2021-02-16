@@ -3,9 +3,9 @@ entries:
   cast:
   - apiVersion: v2
     appVersion: v0.0.0-development
-    created: "2021-02-16T07:18:30.763253563Z"
+    created: "2021-02-16T13:08:29.83549915Z"
     description: DASH video-streaming and RTMP live-streaming platform
-    digest: 2a4015836c4b8844e3728c165f67d25dba41859b8d25a0d2b09bddffc790e9db
+    digest: 14b3e7caa776d068ce80598e23c09a401e767c064c3b4bbc0b86700f97ad7c35
     name: cast
     type: application
     urls:
@@ -14,7 +14,7 @@ entries:
   cut:
   - apiVersion: v2
     appVersion: v1.1.2
-    created: "2021-02-16T07:18:30.765578034Z"
+    created: "2021-02-16T13:08:29.83813115Z"
     description: URL, snippet, and file sharing with ease
     digest: 5afc55375724af4d078d750ff8bb50f72091b50eded985f99f4af19272bcf0e1
     name: cut
@@ -24,7 +24,7 @@ entries:
     version: v1.1.2
   - apiVersion: v2
     appVersion: v0.0.0-development
-    created: "2021-02-16T07:18:30.764666875Z"
+    created: "2021-02-16T13:08:29.836884255Z"
     description: URL, snippet, and file sharing with ease
     digest: c07bfa4a0c21a98600fef9f4a9fab957340b91acbe68e82946b9719800ad453d
     name: cut
@@ -35,7 +35,7 @@ entries:
   folio:
   - apiVersion: v2
     appVersion: v2.0.0-alpha.2
-    created: "2021-02-16T07:18:30.767410785Z"
+    created: "2021-02-16T13:08:29.839365317Z"
     description: Personal website and portfolio
     digest: 8c18e63b8806666a9304d40af71c1ec81da2e63db5359404f1cabae09b22b227
     name: folio
@@ -45,7 +45,7 @@ entries:
     version: v2.0.0-alpha.2
   - apiVersion: v2
     appVersion: v0.0.0-development
-    created: "2021-02-16T07:18:30.766917812Z"
+    created: "2021-02-16T13:08:29.838862783Z"
     description: Personal website and portfolio
     digest: b649bdfa6bba4f4264fd934b2483cd93078d87ab7a5a783f183719a94a2fe557
     name: folio
@@ -56,7 +56,7 @@ entries:
   ratify:
   - apiVersion: v2
     appVersion: v1.1.1
-    created: "2021-02-16T07:18:30.768476007Z"
+    created: "2021-02-16T13:08:29.840508553Z"
     description: Central Authentication Service implementing OAuth 2.0 and OpenID Connect protocols
     digest: 4ca4408279a2d6e88238a84ef09d8556f20869cad19854e15052c793e10ccb04
     name: ratify
@@ -66,7 +66,7 @@ entries:
     version: v1.1.1
   - apiVersion: v2
     appVersion: v0.0.0-development
-    created: "2021-02-16T07:18:30.767938837Z"
+    created: "2021-02-16T13:08:29.83990699Z"
     description: Central Authentication Service implementing OAuth 2.0 and OpenID Connect protocols
     digest: b2f02a17b140576506999ef870b0f02beb263db4787113dd9a683b7b12d0b0b6
     name: ratify
@@ -74,4 +74,4 @@ entries:
     urls:
     - https://charts.daystram.com/ratify-v0.0.0-development.tgz
     version: v0.0.0-development
-generated: "2021-02-16T07:18:30.761868003Z"
+generated: "2021-02-16T13:08:29.83421213Z"
