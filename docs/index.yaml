@@ -3,7 +3,7 @@ entries:
   cast:
   - apiVersion: v2
     appVersion: v2.1.4
-    created: "2021-07-12T18:15:29.586111548Z"
+    created: "2021-07-12T18:30:00.128122104Z"
     description: DASH video-streaming and RTMP live-streaming platform
     digest: e12d9724ebe5cd7d2012775fe6d6e3d9bbe90f62f4cd31bdcf73152f75aa4799
     name: cast
@@ -13,7 +13,7 @@ entries:
     version: v2.1.4
   - apiVersion: v2
     appVersion: v0.0.0-development
-    created: "2021-07-12T18:15:29.585634741Z"
+    created: "2021-07-12T18:30:00.1276264Z"
     description: DASH video-streaming and RTMP live-streaming platform
     digest: 14b3e7caa776d068ce80598e23c09a401e767c064c3b4bbc0b86700f97ad7c35
     name: cast
@@ -24,7 +24,7 @@ entries:
   cut:
   - apiVersion: v2
     appVersion: v1.1.2
-    created: "2021-07-12T18:15:29.588019679Z"
+    created: "2021-07-12T18:30:00.12907551Z"
     description: URL, snippet, and file sharing with ease
     digest: 5afc55375724af4d078d750ff8bb50f72091b50eded985f99f4af19272bcf0e1
     name: cut
@@ -34,7 +34,7 @@ entries:
     version: v1.1.2
   - apiVersion: v2
     appVersion: v0.0.0-development
-    created: "2021-07-12T18:15:29.587071964Z"
+    created: "2021-07-12T18:30:00.128599607Z"
     description: URL, snippet, and file sharing with ease
     digest: c07bfa4a0c21a98600fef9f4a9fab957340b91acbe68e82946b9719800ad453d
     name: cut
@@ -45,7 +45,7 @@ entries:
   folio:
   - apiVersion: v2
     appVersion: v2.1.2
-    created: "2021-07-12T18:15:29.59057842Z"
+    created: "2021-07-12T18:30:00.131164624Z"
     description: Personal website and portfolio
     digest: 25f169840e7950d2aebf073b08623462750fc32d16ff12c085e4889cc05394d6
     name: folio
@@ -55,7 +55,7 @@ entries:
     version: v2.1.2
   - apiVersion: v2
     appVersion: v2.0.1
-    created: "2021-07-12T18:15:29.590164814Z"
+    created: "2021-07-12T18:30:00.130767222Z"
     description: Personal website and portfolio
     digest: b3512313eaf8679082cf530ca885064818da37d92e06c42c7f6d21a2f10c9008
     name: folio
@@ -65,7 +65,7 @@ entries:
     version: v2.0.1
   - apiVersion: v2
     appVersion: v2.0.0
-    created: "2021-07-12T18:15:29.589737007Z"
+    created: "2021-07-12T18:30:00.130351019Z"
     description: Personal website and portfolio
     digest: 551f0dd345833d1947c0e3cd17ab104d6b0a111bc417a40bfbe4d8c41145e2a2
     name: folio
@@ -75,7 +75,7 @@ entries:
     version: v2.0.0
   - apiVersion: v2
     appVersion: v2.0.0-alpha.2
-    created: "2021-07-12T18:15:29.5893107Z"
+    created: "2021-07-12T18:30:00.129896916Z"
     description: Personal website and portfolio
     digest: 8c18e63b8806666a9304d40af71c1ec81da2e63db5359404f1cabae09b22b227
     name: folio
@@ -85,7 +85,7 @@ entries:
     version: v2.0.0-alpha.2
   - apiVersion: v2
     appVersion: v0.0.0-development
-    created: "2021-07-12T18:15:29.588885693Z"
+    created: "2021-07-12T18:30:00.129482313Z"
     description: Personal website and portfolio
     digest: af28690142399da634ca637a78e42b84014b4869b61b882d6ab0fb3b67ba4e28
     name: folio
@@ -96,7 +96,7 @@ entries:
   ratify:
   - apiVersion: v2
     appVersion: v1.1.1
-    created: "2021-07-12T18:15:29.591459535Z"
+    created: "2021-07-12T18:30:00.13203283Z"
     description: Central Authentication Service implementing OAuth 2.0 and OpenID Connect protocols
     digest: 4ca4408279a2d6e88238a84ef09d8556f20869cad19854e15052c793e10ccb04
     name: ratify
@@ -106,12 +106,12 @@ entries:
     version: v1.1.1
   - apiVersion: v2
     appVersion: v0.0.0-development
-    created: "2021-07-12T18:15:29.591016228Z"
+    created: "2021-07-12T18:30:00.131611227Z"
     description: Central Authentication Service implementing OAuth 2.0 and OpenID Connect protocols
-    digest: f47dfc9fc0dc5ac0225f1e61321bf2acf36ae8e3edb1402772c27372a719daf7
+    digest: 490fc6a78a4c916cca0d1d67fa6e4b9cfafac01591d65995a8f8a8f86e314fb1
     name: ratify
     type: application
     urls:
     - https://charts.daystram.com/ratify-v0.0.0-development.tgz
     version: v0.0.0-development
-generated: "2021-07-12T18:15:29.58497983Z"
+generated: "2021-07-12T18:30:00.126939996Z"
