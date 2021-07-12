@@ -3,7 +3,7 @@ entries:
   cast:
   - apiVersion: v2
     appVersion: v2.1.4
-    created: "2021-07-12T14:07:39.082808186Z"
+    created: "2021-07-12T16:31:49.863099313Z"
     description: DASH video-streaming and RTMP live-streaming platform
     digest: e12d9724ebe5cd7d2012775fe6d6e3d9bbe90f62f4cd31bdcf73152f75aa4799
     name: cast
@@ -13,7 +13,7 @@ entries:
     version: v2.1.4
   - apiVersion: v2
     appVersion: v0.0.0-development
-    created: "2021-07-12T14:07:39.082271683Z"
+    created: "2021-07-12T16:31:49.862479394Z"
     description: DASH video-streaming and RTMP live-streaming platform
     digest: 14b3e7caa776d068ce80598e23c09a401e767c064c3b4bbc0b86700f97ad7c35
     name: cast
@@ -24,7 +24,7 @@ entries:
   cut:
   - apiVersion: v2
     appVersion: v1.1.2
-    created: "2021-07-12T14:07:39.084400497Z"
+    created: "2021-07-12T16:31:49.864315652Z"
     description: URL, snippet, and file sharing with ease
     digest: 5afc55375724af4d078d750ff8bb50f72091b50eded985f99f4af19272bcf0e1
     name: cut
@@ -34,7 +34,7 @@ entries:
     version: v1.1.2
   - apiVersion: v2
     appVersion: v0.0.0-development
-    created: "2021-07-12T14:07:39.08336249Z"
+    created: "2021-07-12T16:31:49.863678132Z"
     description: URL, snippet, and file sharing with ease
     digest: c07bfa4a0c21a98600fef9f4a9fab957340b91acbe68e82946b9719800ad453d
     name: cut
@@ -45,7 +45,7 @@ entries:
   folio:
   - apiVersion: v2
     appVersion: v2.1.2
-    created: "2021-07-12T14:07:39.08807102Z"
+    created: "2021-07-12T16:31:49.867396748Z"
     description: Personal website and portfolio
     digest: 25f169840e7950d2aebf073b08623462750fc32d16ff12c085e4889cc05394d6
     name: folio
@@ -55,7 +55,7 @@ entries:
     version: v2.1.2
   - apiVersion: v2
     appVersion: v2.0.1
-    created: "2021-07-12T14:07:39.087559216Z"
+    created: "2021-07-12T16:31:49.866712327Z"
     description: Personal website and portfolio
     digest: b3512313eaf8679082cf530ca885064818da37d92e06c42c7f6d21a2f10c9008
     name: folio
@@ -65,7 +65,7 @@ entries:
     version: v2.0.1
   - apiVersion: v2
     appVersion: v2.0.0
-    created: "2021-07-12T14:07:39.087073113Z"
+    created: "2021-07-12T16:31:49.865987504Z"
     description: Personal website and portfolio
     digest: 551f0dd345833d1947c0e3cd17ab104d6b0a111bc417a40bfbe4d8c41145e2a2
     name: folio
@@ -75,7 +75,7 @@ entries:
     version: v2.0.0
   - apiVersion: v2
     appVersion: v2.0.0-alpha.2
-    created: "2021-07-12T14:07:39.085714805Z"
+    created: "2021-07-12T16:31:49.865341684Z"
     description: Personal website and portfolio
     digest: 8c18e63b8806666a9304d40af71c1ec81da2e63db5359404f1cabae09b22b227
     name: folio
@@ -85,7 +85,7 @@ entries:
     version: v2.0.0-alpha.2
   - apiVersion: v2
     appVersion: v0.0.0-development
-    created: "2021-07-12T14:07:39.085069801Z"
+    created: "2021-07-12T16:31:49.864852268Z"
     description: Personal website and portfolio
     digest: af28690142399da634ca637a78e42b84014b4869b61b882d6ab0fb3b67ba4e28
     name: folio
@@ -96,7 +96,7 @@ entries:
   ratify:
   - apiVersion: v2
     appVersion: v1.1.1
-    created: "2021-07-12T14:07:39.089097726Z"
+    created: "2021-07-12T16:31:49.868954897Z"
     description: Central Authentication Service implementing OAuth 2.0 and OpenID Connect protocols
     digest: 4ca4408279a2d6e88238a84ef09d8556f20869cad19854e15052c793e10ccb04
     name: ratify
@@ -106,12 +106,12 @@ entries:
     version: v1.1.1
   - apiVersion: v2
     appVersion: v0.0.0-development
-    created: "2021-07-12T14:07:39.088607323Z"
+    created: "2021-07-12T16:31:49.868185673Z"
     description: Central Authentication Service implementing OAuth 2.0 and OpenID Connect protocols
-    digest: d278f384977ffec00d2e36924d73b364229eb430e8888aa8a0f44b1129cc6c83
+    digest: 2bbf1aaf6a1cf266de628a2ce33b47432942e5edd2a0acd63ed2dc540897b647
     name: ratify
     type: application
     urls:
     - https://charts.daystram.com/ratify-v0.0.0-development.tgz
     version: v0.0.0-development
-generated: "2021-07-12T14:07:39.081521278Z"
+generated: "2021-07-12T16:31:49.861562665Z"
