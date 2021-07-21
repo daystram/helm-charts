@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   audit:
   - apiVersion: v2
+    appVersion: v0.2.0
+    created: "2021-07-21T17:31:13.028086614Z"
+    description: Service monitor and incident manager
+    digest: 4dd26a1b9df2c11f1f71b8c29e3942653cc9f11290b6e97d5471564275c06fa1
+    name: audit
+    type: application
+    urls:
+    - https://charts.daystram.com/audit-v0.2.0.tgz
+    version: v0.2.0
+  - apiVersion: v2
     appVersion: v0.0.0-development
-    created: "2021-07-21T16:55:55.712952013Z"
+    created: "2021-07-21T17:31:13.027576711Z"
     description: Service monitor and incident manager
     digest: bb31287b9f53db6c0b1f90058be312de0a9d387c86780a4e45d343062a251d94
     name: audit
@@ -14,7 +24,7 @@ entries:
   cast:
   - apiVersion: v2
     appVersion: v2.1.4
-    created: "2021-07-21T16:55:55.714212114Z"
+    created: "2021-07-21T17:31:13.029088719Z"
     description: DASH video-streaming and RTMP live-streaming platform
     digest: e12d9724ebe5cd7d2012775fe6d6e3d9bbe90f62f4cd31bdcf73152f75aa4799
     name: cast
@@ -24,7 +34,7 @@ entries:
     version: v2.1.4
   - apiVersion: v2
     appVersion: v0.0.0-development
-    created: "2021-07-21T16:55:55.713573213Z"
+    created: "2021-07-21T17:31:13.028608716Z"
     description: DASH video-streaming and RTMP live-streaming platform
     digest: 14b3e7caa776d068ce80598e23c09a401e767c064c3b4bbc0b86700f97ad7c35
     name: cast
@@ -35,7 +45,7 @@ entries:
   cut:
   - apiVersion: v2
     appVersion: v1.1.3
-    created: "2021-07-21T16:55:55.716791214Z"
+    created: "2021-07-21T17:31:13.030563226Z"
     description: URL, snippet, and file sharing with ease
     digest: cfc63ce7e6a6c6682ee5bf6eb847e93d13fe0336b00d4677caca8a09c8aa2ff1
     name: cut
@@ -45,7 +55,7 @@ entries:
     version: v1.1.3
   - apiVersion: v2
     appVersion: v1.1.2
-    created: "2021-07-21T16:55:55.716148614Z"
+    created: "2021-07-21T17:31:13.030065724Z"
     description: URL, snippet, and file sharing with ease
     digest: 5afc55375724af4d078d750ff8bb50f72091b50eded985f99f4af19272bcf0e1
     name: cut
@@ -55,7 +65,7 @@ entries:
     version: v1.1.2
   - apiVersion: v2
     appVersion: v0.0.0-development
-    created: "2021-07-21T16:55:55.714846614Z"
+    created: "2021-07-21T17:31:13.029602821Z"
     description: URL, snippet, and file sharing with ease
     digest: eeda298a535038d777c253589923a0ea549b45c2a99b89fda1ba48e264bcd9af
     name: cut
@@ -66,7 +76,7 @@ entries:
   folio:
   - apiVersion: v2
     appVersion: v2.1.2
-    created: "2021-07-21T16:55:55.719620515Z"
+    created: "2021-07-21T17:31:13.034620346Z"
     description: Personal website and portfolio
     digest: 25f169840e7950d2aebf073b08623462750fc32d16ff12c085e4889cc05394d6
     name: folio
@@ -76,7 +86,7 @@ entries:
     version: v2.1.2
   - apiVersion: v2
     appVersion: v2.0.1
-    created: "2021-07-21T16:55:55.718984115Z"
+    created: "2021-07-21T17:31:13.034151544Z"
     description: Personal website and portfolio
     digest: b3512313eaf8679082cf530ca885064818da37d92e06c42c7f6d21a2f10c9008
     name: folio
@@ -86,7 +96,7 @@ entries:
     version: v2.0.1
   - apiVersion: v2
     appVersion: v2.0.0
-    created: "2021-07-21T16:55:55.718452515Z"
+    created: "2021-07-21T17:31:13.033698842Z"
     description: Personal website and portfolio
     digest: 551f0dd345833d1947c0e3cd17ab104d6b0a111bc417a40bfbe4d8c41145e2a2
     name: folio
@@ -96,7 +106,7 @@ entries:
     version: v2.0.0
   - apiVersion: v2
     appVersion: v2.0.0-alpha.2
-    created: "2021-07-21T16:55:55.717920415Z"
+    created: "2021-07-21T17:31:13.032618736Z"
     description: Personal website and portfolio
     digest: 8c18e63b8806666a9304d40af71c1ec81da2e63db5359404f1cabae09b22b227
     name: folio
@@ -106,7 +116,7 @@ entries:
     version: v2.0.0-alpha.2
   - apiVersion: v2
     appVersion: v0.0.0-development
-    created: "2021-07-21T16:55:55.717380415Z"
+    created: "2021-07-21T17:31:13.032037034Z"
     description: Personal website and portfolio
     digest: af28690142399da634ca637a78e42b84014b4869b61b882d6ab0fb3b67ba4e28
     name: folio
@@ -117,7 +127,7 @@ entries:
   ratify:
   - apiVersion: v2
     appVersion: v1.1.2
-    created: "2021-07-21T16:55:55.721607416Z"
+    created: "2021-07-21T17:31:13.036016453Z"
     description: Central Authentication Service implementing OAuth 2.0 and OpenID Connect protocols
     digest: ba7c3cdc10fe5b5ab16b599c27898da97a17764cb840615e606e09bc814f124f
     name: ratify
@@ -127,7 +137,7 @@ entries:
     version: v1.1.2
   - apiVersion: v2
     appVersion: v1.1.1
-    created: "2021-07-21T16:55:55.720982816Z"
+    created: "2021-07-21T17:31:13.035550051Z"
     description: Central Authentication Service implementing OAuth 2.0 and OpenID Connect protocols
     digest: 4ca4408279a2d6e88238a84ef09d8556f20869cad19854e15052c793e10ccb04
     name: ratify
@@ -137,7 +147,7 @@ entries:
     version: v1.1.1
   - apiVersion: v2
     appVersion: v0.0.0-development
-    created: "2021-07-21T16:55:55.720308615Z"
+    created: "2021-07-21T17:31:13.035090149Z"
     description: Central Authentication Service implementing OAuth 2.0 and OpenID Connect protocols
     digest: 4dde52c223b9fe7b2a9dddcd78f52c63eb61417c449acfbf32ad56c96faf448d
     name: ratify
@@ -145,4 +155,4 @@ entries:
     urls:
     - https://charts.daystram.com/ratify-v0.0.0-development.tgz
     version: v0.0.0-development
-generated: "2021-07-21T16:55:55.712101713Z"
+generated: "2021-07-21T17:31:13.026867108Z"
