@@ -3,7 +3,7 @@ entries:
   audit:
   - apiVersion: v2
     appVersion: v0.2.0
-    created: "2021-08-30T05:20:53.07744986Z"
+    created: "2021-08-30T06:27:09.020278656Z"
     description: Service monitor and incident manager
     digest: 8e9a7b3b98009380376b2a3f538d1cfc334ae040cc95755df21bbc820bda3298
     name: audit
@@ -13,7 +13,7 @@ entries:
     version: v0.2.0
   - apiVersion: v2
     appVersion: v0.0.0-development
-    created: "2021-08-30T05:20:53.076929928Z"
+    created: "2021-08-30T06:27:09.019390114Z"
     description: Service monitor and incident manager
     digest: 347e7a997eb871bd5734dbb23a0b198ab010e65d9f8c8414a77cea5d52c05a72
     name: audit
@@ -24,7 +24,7 @@ entries:
   cast:
   - apiVersion: v2
     appVersion: v2.1.4
-    created: "2021-08-30T05:20:53.078633534Z"
+    created: "2021-08-30T06:27:09.021581317Z"
     description: DASH video-streaming and RTMP live-streaming platform
     digest: e12d9724ebe5cd7d2012775fe6d6e3d9bbe90f62f4cd31bdcf73152f75aa4799
     name: cast
@@ -34,7 +34,7 @@ entries:
     version: v2.1.4
   - apiVersion: v2
     appVersion: v0.0.0-development
-    created: "2021-08-30T05:20:53.078024996Z"
+    created: "2021-08-30T06:27:09.020916986Z"
     description: DASH video-streaming and RTMP live-streaming platform
     digest: 14b3e7caa776d068ce80598e23c09a401e767c064c3b4bbc0b86700f97ad7c35
     name: cast
@@ -45,7 +45,7 @@ entries:
   cut:
   - apiVersion: v2
     appVersion: v1.1.3
-    created: "2021-08-30T05:20:53.083775553Z"
+    created: "2021-08-30T06:27:09.025317793Z"
     description: URL, snippet, and file sharing with ease
     digest: cfc63ce7e6a6c6682ee5bf6eb847e93d13fe0336b00d4677caca8a09c8aa2ff1
     name: cut
@@ -55,7 +55,7 @@ entries:
     version: v1.1.3
   - apiVersion: v2
     appVersion: v1.1.2
-    created: "2021-08-30T05:20:53.082419569Z"
+    created: "2021-08-30T06:27:09.023865925Z"
     description: URL, snippet, and file sharing with ease
     digest: 5afc55375724af4d078d750ff8bb50f72091b50eded985f99f4af19272bcf0e1
     name: cut
@@ -65,7 +65,7 @@ entries:
     version: v1.1.2
   - apiVersion: v2
     appVersion: v0.0.0-development
-    created: "2021-08-30T05:20:53.0813115Z"
+    created: "2021-08-30T06:27:09.022949381Z"
     description: URL, snippet, and file sharing with ease
     digest: eeda298a535038d777c253589923a0ea549b45c2a99b89fda1ba48e264bcd9af
     name: cut
@@ -76,7 +76,7 @@ entries:
   fableous:
   - apiVersion: v2
     appVersion: v1.2.0
-    created: "2021-08-30T05:20:53.088423141Z"
+    created: "2021-08-30T06:27:09.028910762Z"
     description: Collaborative Storyteller
     digest: 894e67809d2026d03305af8f42e07508b6cb0b1286967d9a9dacb0f6469ad3f6
     name: fableous
@@ -86,7 +86,7 @@ entries:
     version: v1.2.0
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2021-08-30T05:20:53.087668494Z"
+    created: "2021-08-30T06:27:09.028332634Z"
     description: Collaborative Storyteller
     digest: 14b7d6bda81e3e36fc1d52f2665dc8f43170ec5e9af755d2e5c00f3cb52b6754
     name: fableous
@@ -96,7 +96,7 @@ entries:
     version: v1.1.0
   - apiVersion: v2
     appVersion: v1.0.1
-    created: "2021-08-30T05:20:53.086949349Z"
+    created: "2021-08-30T06:27:09.027778008Z"
     description: Collaborative Storyteller
     digest: 5bc15b895585a08da0d30fefc7be1037eaf074f142360c14d162a03be972c6f1
     name: fableous
@@ -106,7 +106,7 @@ entries:
     version: v1.0.1
   - apiVersion: v2
     appVersion: v1.0.0
-    created: "2021-08-30T05:20:53.086256907Z"
+    created: "2021-08-30T06:27:09.02717678Z"
     description: Collaborative Storyteller
     digest: 010acc19567c8df5830baebc35d771a7be6fc5c9d585cf6fae5e9b853895bf3a
     name: fableous
@@ -116,7 +116,7 @@ entries:
     version: v1.0.0
   - apiVersion: v2
     appVersion: v0.6.1
-    created: "2021-08-30T05:20:53.085515661Z"
+    created: "2021-08-30T06:27:09.026586252Z"
     description: Collaborative Storyteller
     digest: 9917cf77182a6c976529f08dcfe8354e912fa80a2ef3383a34b8b9ebab5b39f5
     name: fableous
@@ -126,9 +126,9 @@ entries:
     version: v0.6.1
   - apiVersion: v2
     appVersion: v0.0.0-development
-    created: "2021-08-30T05:20:53.084496797Z"
+    created: "2021-08-30T06:27:09.025943322Z"
     description: Collaborative Storyteller
-    digest: 0acb1694dc4e3c52730653a1d56f1578f754fdef26d723957ad337a4c48ad8d5
+    digest: cd9697df65cb5f0ebc38884d09323a8e66f517d59dbf387729d18a3d2151be7f
     name: fableous
     type: application
     urls:
@@ -137,7 +137,7 @@ entries:
   folio:
   - apiVersion: v2
     appVersion: v2.2.0
-    created: "2021-08-30T05:20:53.093037527Z"
+    created: "2021-08-30T06:27:09.032452428Z"
     description: Personal website and portfolio
     digest: 848213e2e35180dce57f21e2c8680f8c223b20db947d674b9351bba21f8bfa44
     name: folio
@@ -147,7 +147,7 @@ entries:
     version: v2.2.0
   - apiVersion: v2
     appVersion: v2.1.2
-    created: "2021-08-30T05:20:53.091602238Z"
+    created: "2021-08-30T06:27:09.031807098Z"
     description: Personal website and portfolio
     digest: 25f169840e7950d2aebf073b08623462750fc32d16ff12c085e4889cc05394d6
     name: folio
@@ -157,7 +157,7 @@ entries:
     version: v2.1.2
   - apiVersion: v2
     appVersion: v2.0.1
-    created: "2021-08-30T05:20:53.091026602Z"
+    created: "2021-08-30T06:27:09.031160667Z"
     description: Personal website and portfolio
     digest: b3512313eaf8679082cf530ca885064818da37d92e06c42c7f6d21a2f10c9008
     name: folio
@@ -167,7 +167,7 @@ entries:
     version: v2.0.1
   - apiVersion: v2
     appVersion: v2.0.0
-    created: "2021-08-30T05:20:53.09051257Z"
+    created: "2021-08-30T06:27:09.03058814Z"
     description: Personal website and portfolio
     digest: 551f0dd345833d1947c0e3cd17ab104d6b0a111bc417a40bfbe4d8c41145e2a2
     name: folio
@@ -177,7 +177,7 @@ entries:
     version: v2.0.0
   - apiVersion: v2
     appVersion: v2.0.0-alpha.2
-    created: "2021-08-30T05:20:53.089846529Z"
+    created: "2021-08-30T06:27:09.030050615Z"
     description: Personal website and portfolio
     digest: 8c18e63b8806666a9304d40af71c1ec81da2e63db5359404f1cabae09b22b227
     name: folio
@@ -187,7 +187,7 @@ entries:
     version: v2.0.0-alpha.2
   - apiVersion: v2
     appVersion: v0.0.0-development
-    created: "2021-08-30T05:20:53.089133785Z"
+    created: "2021-08-30T06:27:09.029432586Z"
     description: Personal website and portfolio
     digest: c591348830320d0330c70f4f65f1af2011dcfaa756f2bc4dd49a8aa677d1d3ac
     name: folio
@@ -198,7 +198,7 @@ entries:
   ratify:
   - apiVersion: v2
     appVersion: v1.1.3
-    created: "2021-08-30T05:20:53.095477778Z"
+    created: "2021-08-30T06:27:09.035307862Z"
     description: Central Authentication Service implementing OAuth 2.0 and OpenID Connect protocols
     digest: b95ed1b2e8966b7bcb72d0f852472daa711927716458e330e4e19f31b38d6046
     name: ratify
@@ -208,7 +208,7 @@ entries:
     version: v1.1.3
   - apiVersion: v2
     appVersion: v1.1.2
-    created: "2021-08-30T05:20:53.094875241Z"
+    created: "2021-08-30T06:27:09.034536926Z"
     description: Central Authentication Service implementing OAuth 2.0 and OpenID Connect protocols
     digest: ba7c3cdc10fe5b5ab16b599c27898da97a17764cb840615e606e09bc814f124f
     name: ratify
@@ -218,7 +218,7 @@ entries:
     version: v1.1.2
   - apiVersion: v2
     appVersion: v1.1.1
-    created: "2021-08-30T05:20:53.094316606Z"
+    created: "2021-08-30T06:27:09.033850194Z"
     description: Central Authentication Service implementing OAuth 2.0 and OpenID Connect protocols
     digest: 4ca4408279a2d6e88238a84ef09d8556f20869cad19854e15052c793e10ccb04
     name: ratify
@@ -228,7 +228,7 @@ entries:
     version: v1.1.1
   - apiVersion: v2
     appVersion: v0.0.0-development
-    created: "2021-08-30T05:20:53.09372907Z"
+    created: "2021-08-30T06:27:09.033168862Z"
     description: Central Authentication Service implementing OAuth 2.0 and OpenID Connect protocols
     digest: dd630e0f0b3c049f2a583ba2c406f23657a64523b7d7e3adf786b2506ce64d72
     name: ratify
@@ -236,4 +236,4 @@ entries:
     urls:
     - https://charts.daystram.com/ratify-v0.0.0-development.tgz
     version: v0.0.0-development
-generated: "2021-08-30T05:20:53.076170481Z"
+generated: "2021-08-30T06:27:09.018420869Z"
